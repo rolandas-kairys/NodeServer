@@ -1,6 +1,6 @@
 //importing express
 const express = require('express');
-const routes = require('../routes/index.js');
+const routes = require('./routes/index.js');
 
 // creating an instance of express and storing in variable
 const app = express();
